@@ -1,0 +1,14 @@
+* {
+    background-color: azure;
+    color: mediumslateblue;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+h1,
+h3 {
+    color: midnightblue;
+}
